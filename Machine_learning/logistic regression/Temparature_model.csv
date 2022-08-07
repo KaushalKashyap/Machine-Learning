@@ -1,0 +1,25 @@
+Flight Number,Launch Temperature,Damage to O-ring
+STS 1   ,66,0
+STS 2   ,70,1
+STS 3   ,69,0
+STS 4,80,0
+STS 5   ,68,0
+STS 6   ,67,0
+STS 7   ,72,0
+STS 8   ,73,0
+STS 9   ,70,0
+STS 41B ,57,1
+STS 41C ,63,1
+STS 41D ,70,1
+STS 41G,78,0
+STS 51A ,67,0
+STS 51C ,53,1
+STS 51D ,67,0
+STS 51B ,75,0
+STS 51G ,70,0
+STS 51F ,81,0
+STS 51I ,76,0
+STS 51J ,79,0
+STS 61A ,75,1
+STS 61B ,76,0
+STS 61C ,58,1
